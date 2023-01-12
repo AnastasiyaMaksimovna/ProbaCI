@@ -9,5 +9,8 @@
         <module name="ProbaCI" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Sales" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>
